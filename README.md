@@ -14,13 +14,13 @@
 1）cat /proc/version
 ```
 
-   ubuntu-16.04.10
+- ubuntu-16.04.10
 
 ```
 2）nvidia-smi
 ```
 
-   GTX 1080
+- GTX 1080
 
 ## 3、安装cuda和cudnn 
 
