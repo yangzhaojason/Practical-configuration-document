@@ -7,7 +7,7 @@
 ```
 使用命令：bash Anaconda2-5.0.0.1-Linux-x86_64.sh
 ```
-然后
+然后激活一下
 ```
 使用命令：source .bashrc
 ```
