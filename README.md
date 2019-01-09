@@ -7,7 +7,10 @@
 ```
 使用命令：bash Anaconda2-5.0.0.1-Linux-x86_64.sh
 ```
-
+然后
+```
+使用命令：source .bashrc
+```
 ## 2、查看ubuntu版本、GPU型号
 
 ```
