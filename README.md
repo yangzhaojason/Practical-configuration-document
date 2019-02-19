@@ -3,7 +3,7 @@
 ## 1、安装anaconda
 
 ​     使用清华的镜像包：https://mirrors.tuna.tsinghua.edu.cn/anaconda/archive/
-
+或者：https://mirrors.ustc.edu.cn/anaconda/archive/
 ```
 使用命令：bash Anaconda2-5.0.0.1-Linux-x86_64.sh
 ```
