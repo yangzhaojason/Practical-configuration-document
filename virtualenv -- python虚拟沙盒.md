@@ -30,7 +30,7 @@ root@kali:/recall/code#
 如果不想依赖这些package，那么可以加上参数 
 
 ```
-`--no-site-packages　`
+--no-site-packages
 ```
 
 建立虚拟环境
