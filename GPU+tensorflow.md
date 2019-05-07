@@ -69,7 +69,7 @@ export LD_LIBRARY_PATH=/usr/local/cuda-9.0/lib64${LD_LIBRARY_PATH:+:${LD_LIBRARY
 1) conda create -n tensorflow python=2.7
 2) source activate tensorflow
 
-3) pip install tensorflow-gpu==1.5 # 安装 gpu 版本的 tensorflow 和 keras
+3) pip install tensorflow-gpu==1.6.0 # 安装 gpu 版本的 tensorflow 和 keras
 
 4）source deactivate
 
